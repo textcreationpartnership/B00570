@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The praise of nothing: though some doe wonder why I write in praise of nothing, in these lamentable daies, when they have read, and will my counsell take, I hope of nothing something they may make. To the tune of, Though I have but a marke a yeare, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00570</idno>
+            <idno type="STC">STC 20185</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[328]</idno>
+            <idno type="EEBO-CITATION">99884391</idno>
+            <idno type="PROQUEST">ocm99884391</idno>
+            <idno type="VID">183089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183089)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[173])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The praise of nothing: though some doe wonder why I write in praise of nothing, in these lamentable daies, when they have read, and will my counsell take, I hope of nothing something they may make. To the tune of, Though I have but a marke a yeare, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>For H. Gosson, dwelling upon London-Bridge nere the Gate.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1635?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "The praise of wisedome some doe write ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="328" facs="tcp:183089:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>The praiſe of Nothing:</head>
+            <argument>
+               <l>Though ſome doe wonder why I write in praiſe</l>
+               <l>Of Nothing, in theſe lamentable daies,</l>
+               <l>When they have read, and will my counſell take,</l>
+               <l>I hope of Nothing ſomething they may make.</l>
+            </argument>
+            <opener>To the tune of, Though I have but a marke a yeare, &amp;c.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe praiſe of wiſedome ſome doe write,</l>
+                  <l>and ſome the praiſe of money:</l>
+                  <l>And every one like Bées to th' hive,</l>
+                  <l>from ſomething gather hony.</l>
+                  <l>But if my <hi>Genius</hi> doe not faile,</l>
+                  <l>To promp me ere I end my tale,</l>
+                  <l>You'l finde that nothing will prevaile,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>for all muſt turne to nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Nothing was firſt, and ſhall be laſt,</l>
+                  <l>for nothing holds for euer,</l>
+                  <l>And nothing ever yet ſcap't death,</l>
+                  <l>ſo can't the longeſt liver:</l>
+                  <l>Nothing's Immortall, nothing can,</l>
+                  <l>From croſſes ever kéepe a man,</l>
+                  <l>Nothing can live, when the world is gone,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>for all ſhall come to nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Nothing in all the world we finde,</l>
+                  <l>with ſorrow more perplexed,</l>
+                  <l>Then he that with a ſcolding wife,</l>
+                  <l>eternally is vexed.</l>
+                  <l>Whoſe tongue by nothing can be quel'd,</l>
+                  <l>Although with red hot ſpincers held</l>
+                  <l>For ſhée will to no reaſon yéeld,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>but ſcold and brawle for nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Nothing is ſwifter then the winde,</l>
+                  <l>or lighter then a feather,</l>
+                  <l>Yet I another thing have found,</l>
+                  <l>which quite excelleth either:</l>
+                  <l>A harlots love, that every day,</l>
+                  <l>Is chang'd and ſwiftly blowne away,</l>
+                  <l>But what's more light then her, I pray,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>the wiſeman anſweres nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Nothing ſhall therefore pleaſe me more,</l>
+                  <l>than women to abandon,</l>
+                  <l>For if that I ſhould fall in love,</l>
+                  <l>or joyne with ſuch a wanton:</l>
+                  <l>Shée'd breake my very heart-ſtrings ſure,</l>
+                  <l>Or I muſt <hi>Vulcans</hi> lot indure,</l>
+                  <l>And patiently abide the cure,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>or elſe be help'd by nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Take you héed then unmarried Lads,</l>
+                  <l>before you grow a lover,</l>
+                  <l>And ere too ſoone you chuſe a wife,</l>
+                  <l>with honeſt patience prove her:</l>
+                  <l>For nothing can againe unwed,</l>
+                  <l>Nor cure a Cuckolds aking head,</l>
+                  <l>Beſides once loſt a Maiden-head,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>can be recal'd by nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="329" facs="tcp:183089:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 11 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>IN heat of war nothing is ſafe,</l>
+                  <l>in peace nothing reſpected,</l>
+                  <l>But ill got wealth, which to procure,</l>
+                  <l>no vice at all's neglected:</l>
+                  <l>The ſonne doth wiſh his fathers end,</l>
+                  <l>That he may have his wealth to ſpend,</l>
+                  <l>But let ſuch Lads their manners mend,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>or all will come to nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Nothing is ſafe by Sea or Land,</l>
+                  <l>nor alwaies free from danger,</l>
+                  <l>Which is committed to the truſt,</l>
+                  <l>of either friend or ſtranger.</l>
+                  <l>For nothing in the world remaines</l>
+                  <l>But for their private ends or gaines,</l>
+                  <l>Theil hav't although they break their brains</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>or bring themſelves to nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Nothing regarded more then gold,</l>
+                  <l>but vertue's quite decayd,</l>
+                  <l>For gold the Vſurer ſels his ſoule,</l>
+                  <l>which muſt at laſt be paid,</l>
+                  <l>When nothing from the grave can call</l>
+                  <l>Such mizers who their ſoules inthrall,</l>
+                  <l>To gripe and hoord the Devill and all,</l>
+                  <l>
+                     <hi>but better they had nothing.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Nothing can from the ſight of God,</l>
+                  <l>conceale the faults of any,</l>
+                  <l>For his cleare eye can ſearch into,</l>
+                  <l>the ſmalleſt chinke or cranny.</l>
+                  <l>He can within thy heart eſpy,</l>
+                  <l>The ſecretſt ſinnes which there doe lye,</l>
+                  <l>But if you to repentance hie,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>they ſhall appeare as nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Nothing therefore hereafter ſéeke</l>
+                  <l>but vertue, vice deteſting,</l>
+                  <l>With pureſt robs of ſanctity,</l>
+                  <l>your humble ſoule inveſting:</l>
+                  <l>And ſéeke you after no ſuch thing,</l>
+                  <l>Which may your ſoule to ſorrow bring,</l>
+                  <l>Or while thou liv'ſt thy conſcience ſting,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>or eſle deſire nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>For though but little thou art worth,</l>
+                  <l>yet nothing doſt deſire,</l>
+                  <l>Nor coveteſt thy neighbours goods,</l>
+                  <l>nor 'bove thy ſelfe aſpire.</l>
+                  <l>But reſteſt honeſtly content,</l>
+                  <l>With that poore little God hath ſent,</l>
+                  <l>Thou mayſt diſperſe in merriment,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>and ſay thou wants for nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When earth-wormes ſpend their dayes in care,</l>
+                  <l>and nere can reſt in quiet.</l>
+                  <l>Nor with the feare to loſe their gold,</l>
+                  <l>have time to ſléepe or dyet:</l>
+                  <l>But with a ſad and penſive minde</l>
+                  <l>Still ſtudying how the poore to grinde,</l>
+                  <l>Vntill at laſt with ſorrow pinde,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>themſelves are turn'd to nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And thus you now have heard the praiſe,</l>
+                  <l>of nothing, worth a penny:</l>
+                  <l>Which as I ſtand to ſing heare now,</l>
+                  <l>I hope will yéeld me many.</l>
+                  <l>But if that price be held to deare,</l>
+                  <l>Or any diſlike this counſell here,</l>
+                  <l>He may depart with a flea in's eare,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>for I will give him nothing.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for H. Goſſon, dwelling upon London-Bridge nere the Gate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
